@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demdev404&label=Profile%20views&color=0e75b6&style=flat" alt="demdev404" /> </p>
 
 - 📫 How to reach me: **demvegand@gmail.com**
-- ⚡Writte me and get answer ASAP: <a src="https://www.linkedin.com/in/demi%C3%A1n-vega-andrade-b8b0a4185/">Demián Vega</a>
+- ⚡Writte me and get answer ASAP: <a href="https://www.linkedin.com/in/demi%C3%A1n-vega-andrade-b8b0a4185/">**Demián Vega**</a>
 
 - 🎃 Fun fact: **Mango lover 🥭**
 
