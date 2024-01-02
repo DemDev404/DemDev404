@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Demián Vega 👻</h1>
+<h1 align="center">Hi 👋, I'm Demián 🎃</h1>
 <h3 align="center">Frontend dev || Vue.js || React.js || JavaScript Life</h3>
 <h3 align="center">Salesforce Dev in Progres...</h3>
 
@@ -6,8 +6,6 @@
 
 - 📫 How to reach me: **demvegand@gmail.com**
 - ⚡Writte me and get answer ASAP: <a target="_blank" href="https://www.linkedin.com/in/demi%C3%A1n-vega-andrade-b8b0a4185/">**Demián Vega**</a>
-
-- 🎃 Fun fact: **Mango lover 🥭**
 
   <p align="left">
     I am a Frontend developer who likes to have fun with what he does and seeks to grow as a developer, I specialized in: 
