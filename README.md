@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Demián 🎃</h1>
-<h3 align="center">Frontend dev || Vue.js || React.js || JavaScript Life</h3>
-<h3 align="center">Salesforce Dev in Progres...</h3>
+<h3 align="center">JavaScript Dev || Frontend Dev || Salesforce Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demdev404&label=Profile%20views&color=0e75b6&style=flat" alt="demdev404" /> </p>
 
